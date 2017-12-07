@@ -1,0 +1,80 @@
+原始链接：http://news.163.com/17/0604/19/CM42J7TG0001899N.html
+
+19岁男子沉迷"蓝鲸"死亡游戏:一刀一刀在腿上刻字
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/H/J/VCL69ACHJ.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/04/Vbcex6519/SD/Vbcex6519-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+提防“蓝鲸”死亡游戏
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+提防“蓝鲸”死亡游戏
+（来源：网易）
+
+央视网消息：一款名为“蓝鲸”的自杀游戏最近把中国的父母们吓出一身冷汗，这个游戏最初出现在俄罗斯的社交网络，专门针对青少年，教唆他们完成自残甚至自杀的游戏任务。去年，游戏设计者已经在俄罗斯被警方抓获。而令人揪心的是，游戏近期在中国的社交网络平台传播，并演变出多种不同的版本。
+小姚腿上的划痕
+当江苏常熟19岁的小姚露出腿上的字时，旁人很难想象这些都是他自己一刀一刀刻上去的。更令人不可思议的是，他当时这么做只是为了完成一个网友给自己设定的任务。
+以个人信息胁迫 要求玩家做任务
+通过QQ群传播
+一个月前，小姚因为好奇加入了一个QQ聊天群，一个管理员主动加他好友，开始诱导他玩一个游戏，并声称，要想留在这个群，必须要加入游戏，规则很简单，就是完成一系列任务：每天凌晨4点20起床，听悲伤的音乐，看恐怖电影，用美工刀在身上刻字符，每次完成任务后，拍照接受管理员的监督，管理员则会时不时在群内更新玩家们完成任务的情况，此外，玩家会被要求提供真实个人信息，一旦有人抵触任务或中途退出，个人私密信息便会被公开，家人也会受到伤害。而这一整套流程，全部来自一款名为“蓝鲸”的游戏。
+煽动青少年自杀 游戏设计者被抓
+游戏设计者已经被抓
+这些视频的拍摄者，都是蓝鲸游戏的玩家，他们将自己生命最后的画面拍摄下来，作为完成终极任务的证明。起初，这个游戏出现在俄罗斯的社交网络，专门针对14到16岁的青少年。游戏设计者因为煽动多名青少年结束自己的生命，已经在去年被俄罗斯警方抓获。
+利用好奇心 步步引诱致自杀
+令人揪心的是，游戏依然在传播，并且演变出各种不同的版本，但无论哪个版本，都是利用青少年的好奇心将他们吸引，并通过心理诱导，一步步摧毁他们本就脆弱的意志，最终诱导他们走向自杀，以此来满足诱导者的变态心理。截至目前，英国、阿根廷、墨西哥、中国等多国都发现类似案例。而小姚参与的，正是这个危险的死亡游戏。
+小姚曾想过自杀
+父母离异缺少沟通 小姚曾想过自杀
+父母离异，没有朋友，缺少沟通，只能通过看书和上网来打发时间，从小姚简短且混乱的语言中，记者试图拼凑出了一些他的生活轨迹，其中令人震惊的是，结束生命的念头小姚早就有过，只不过停留在想一想的阶段，而这个游戏的出现，就像有人给了他一把刀，于是他离实施这个念头，只是一抬手的距离。
+警方及时介入 挽回年轻生命
+从听一些压抑的音乐，到在自己身上刻字，在完成一系列的所谓挑战后，小姚渐渐失去了对生活的兴趣，也对自我伤害感到麻木，最终决定完成自杀的终极任务，所幸警方及时介入，挽回了年轻的生命。
+警方及时介入
+据他事后回忆，虽然做了充足的准备，但因为害怕并没有实施，放弃任务后自己还和游戏管理员商量，打算第二天换其他方式，幸好警方接到举报并及时介入，才没有继续做出傻事。
+抵制死亡游戏 更要重视背后心理问题
+据赵鹤解释，这款蓝鲸游戏前一段时间在国内突然出现，多通过微信QQ等社交网络传播，虽然目前为止常熟市只发现了一起案件，但在全国类似的案例已经出现不少。其实，早在一个月前，国内关于蓝鲸游戏的报道就已经出现，随后浙江，安徽，广西等多地陆续发现类似案件，而互联网平台方面也发布通报，开始查封“蓝鲸”QQ群。不过，将小姚从死亡边缘拉回来的民警特意提醒，目前我国关于教唆他人自杀并没有相应的法律法规或法律解释，如何明确界定是一个问题，在这样的情况下，除了采取一定行动抵制死亡游戏的传播，更多地还是要重视青少年的心理健康问题。
+青少年心理健康问题不容忽视
+社会各方应筑牢“生命之篱”

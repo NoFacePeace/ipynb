@@ -1,0 +1,82 @@
+原始链接：http://news.163.com/17/0530/13/CLMHJSI90001899N.html
+
+水果贩怎么总拿瓶子给荔枝喷"水"?记者探访得真相
+
+又到了荔枝成熟的季节，
+甜甜的口感让太多人爱不释口。
+不过最近，
+有人在市场上发现，
+商贩们总是给荔枝喷水，
+而且喷出来的液体
+隐约有一股刺鼻的味道，
+他们到底喷的啥呢？
+商贩：喷的是水 目的是美观
+水果商贩说，之所以喷水，是因为荔枝属性特殊，离不开水，不然外观颜色就会发生褐变。但事实真是这样吗？
+业内人士：有些喷的是稀释的盐酸
+业内人士透露有些水果商贩喷洒在荔枝表面的水，其实是稀释过的甲醛和二氧化硫，目的不仅能让其变得好看，更重要的是起到防腐、保鲜的作用。
+专家：疑似二氧化硫
+荔枝上到底喷的是什么呢？记者分别购买了几种荔枝，送到专业检测机构进行检测。真相竟然是这样的！
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/5/U/1/VCKONJEU1.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1705/30/rSqna1663/SD/rSqna1663-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+水果摊贩给荔枝喷的到底是什么水?
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+水果摊贩给荔枝喷的到底是什么水?
+（来源：~）
+
+根据专家介绍，含硫保鲜剂过量食用会对口腔食道黏膜有损伤，可能引起结膜、支气管炎等症状。
+应该如何挑选荔枝
+挑选荔枝时，如果摸起来手感觉潮热、甚至有烧手感觉不要买，自然成熟的荔枝闻起来有淡淡的香味，最好选择外表红青相间颜色的，会比较安全。
+1、看颜色
+无论多么新鲜的荔枝，都不是完全鲜艳的红色，而是带有一些杂色。新鲜荔枝的表皮可能红中带绿，可能红中带白，可能浅红中带暗红，这是很正常的，这样一般都比较新鲜。如果果皮上出现黑色或者褐色，则说明荔枝已经变质，吃货小伙伴们切勿购买。
+2、凭手感
+在选购荔枝的时候，可以用手轻轻地按捏一下，看看是不是有弹性。一般而言，如果稍微有些软，但又不失弹性的，应该是比较成熟的荔枝。但是，如果摸起来又软又没有弹性，那么说明该荔枝已经熟透了，或者是烂了。所以挑选荔枝的时候，尽量要选择那些稍硬一些，有弹性的。
+3、闻气味
+新鲜的荔枝都有一股清香的味道，如果有酒味或是酸味等异常的味道，说明荔枝可能已经变质了，如果闻不出来味道的，可能是还未成熟的。所以挑选荔枝的时候，要选择闻起来有清香味的。
+4、尝果肉

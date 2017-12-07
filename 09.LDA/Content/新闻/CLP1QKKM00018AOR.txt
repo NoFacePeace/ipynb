@@ -1,0 +1,73 @@
+原始链接：http://news.163.com/17/0531/12/CLP1QKKM00018AOR.html
+
+"人体盛"女模被骚扰怼食客?当事人:演的 酬劳300
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/5/7/L/VCKR99P7L.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1705/31/ptiHg7234/SD/ptiHg7234-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+太原人体盛女模被骚扰怒怼食客？
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+太原人体盛女模被骚扰怒怼食客？
+（来源：~）
+
+最近两天，一则短视频在网上引发热议。根据视频内容和网友爆料，疑似山西太原一家海鲜自助餐厅推出“人体盛”（由人体充当餐盘，起源于日本），一名男性食客在就餐时骚扰了作为“餐盘”的年轻女子，并因此引发激烈冲突。
+5月31日，封面新闻联系上了自称事件男主的“天天”（化名），他说自己其实是一名大四应届毕业生，整个事件其实是该自助餐店老板自编自导的一次炒作营销，他和女当事人私下是好朋友，作为演员参与了本次事件。
+人体盛女模自称被骚扰 与男性食客互怼
+根据网上流传的视频，当事女模头戴面具，身着裹胸和短裤，坐在一家餐厅的餐桌上。她指摘一名男性食客摸了她的大腿和作出某些不可描述的动作，随后，她从餐桌跳起直接冲向该食客。尽管男方否认有逾矩动作，但两人还是迸发了激烈的言语冲突，随后疑似还发生了肢体对抗。
+该视频上网后迅速被转发，引发了网友对该事件和人体盛的激烈讨论。
+当事男主发声：事件系营销炒作 与女模特是朋友
+5月31日，记者联系到了自称当事男性食客的天天，对于网上视频的广泛流传，他表示始料未及。
+天天说，他是当地某大学的一名大四学生，今年即将毕业。课余时间，他有时会接一些表演性质的兼职，本次“人体盛骚扰事件”其实从一开始就是一场戏，所谓的骚扰不过是用筷子戳了戳当事人。
+“最早其实是自助餐店的老板找到女模冰冰（化名）让她出演人体盛模特，然后因为我和冰冰是好朋友，于是通过我经纪人秦先生找到我和她演对手戏。”天天说，接活时他已经知道是配合做炒作，并收取了300元的酬劳。
+天天表示，在5月26日正式“演戏”前，他和冰冰一共进行了两次排练，并在自助餐店老板的要求下增加了挑衅的语言和激烈的冲突，“当时他说会找朋友来进行 偷拍 和通过网络营销，还承诺会说明情况。但现在事件发酵了，他就不管我们了。”
+天天说，视频上网后的快速传播让他和冰冰的生活都受到了严重影响，他本人作为在校学生更是面临来自社会各界的指责，名誉受损，“我的老师朋友第二天就来 问候 我了”。目前，他和冰冰都在寻求途径澄清事件始末。
+经纪人、自助餐店老板暂未回应
+随后，记者与天天的经纪人秦先生联系，他对此事并未作出实质回应。
+记者又尝试联系事发自助餐店，据接线工作人员说，负责人并不在店内，也无法提供联系方式，但她确认，网上流传的人体盛视频确实发生在店内。
+人体盛：

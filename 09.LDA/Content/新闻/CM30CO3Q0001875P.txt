@@ -1,0 +1,65 @@
+原始链接：http://news.163.com/17/0604/09/CM30CO3Q0001875P.html
+
+两男子禁渔期将25瓶农药投入河流 毒死上千斤鱼虾
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/C/4/VAL5ACVC4.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/04/Fpbsw4097/SD/Fpbsw4097-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+【看看新闻】两男子将25瓶农药投入母亲河 毒死上千斤鱼虾
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+【看看新闻】两男子将25瓶农药投入母亲河 毒死上千斤鱼虾
+（来源：original）
+
+近日，贵州寨乐镇村民发现鼠仲河内有大量鱼虾死亡，随即便向寨乐派出所报了警。
+纳雍县公安局寨乐派出所所长沈小杰介绍，周围的老百姓对此事件议论纷纷，造成很大的影响，根据这件事情，警方怀疑是一起投毒毒鱼事件。
+事情发生后，寨乐派出所组织民警协调相关部门参与调查，通过摸排走访和对河内的水产品的死亡状况分析，民警怀疑有人故意投毒致使大量水生物死亡。那么，是谁如此大胆，竟做出毒鱼这样的事情呢？
+由于河道旁没有任何监控设施，又没有任何村民看见有谁向河里倒过东西，要找到投毒的犯罪嫌疑人，犹如大海捞针。
+民警走访了当地的老百姓，据他们说他们发现当天有一个人在河边钓鱼，发现寨乐乡戈落村金家寨组的龚某从钓鱼的人身边路过，向他问，是否有鱼从河面漂起。
+经过三天走访调查，民警发现龚某有重大作案嫌疑。随后，寨乐派出所将此事上报纳雍县公安局治安大队，请求联合调查，并对龚某实施抓捕。
+龚某被抓捕归案后，如实交代了犯罪事实。原来，鼠仲河因受到当地村民保护，加之此时又是禁渔期，河流的鱼量相对较多。龚某与宋某看到河里经常有鱼游动，就见“鱼”眼开，打起了鱼的主意。于是，两人相约到纳雍县城购买了25瓶甲氰菊酯农药，当晚，龚某便将农药倒入河内，导致第二天河里出现了鱼类及水生物大面积死亡的现象。

@@ -1,0 +1,95 @@
+原始链接：http://news.163.com/17/0603/13/CM0QHLPK00018AOR.html
+
+误机掌掴工作人员女博士：我知错了 能少关几天吗
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/Q/8/VCL0R9RQ8.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/02/AtIWv4061/SD/AtIWv4061-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+武汉一女博士因迟到误机掌掴机场工作人员，被处行拘10天
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+武汉一女博士因迟到误机掌掴机场工作人员，被处行拘10天
+（来源：~）
+
+北京青年报消息，6月1日上午，武汉某名牌大学在读女博士准备出国参加重要会议，却因迟到导致误机，当即情绪失控，大闹天河国际机场值机柜台，掌掴一名机场工作人员，被机场警方依法处以行政拘留10日。
+不仅如此，还有更严重的后果在等着她……
+这段事发监控视频里可以看到，旅客一家在沟通无果后，来到值机柜台，没说几句话，女旅客就动起手，打了值机员两巴掌才被男旅客拉开。
+视频截图
+当天，记者从天河机场方面证实确有此事。据悉，当事值机员平日温柔乖巧，事发后精神受到刺激，泣不成声，已被送医检查。
+自己迟到却掌掴工作人员
+机场警方介绍，打人者张某36岁。6月1日上午9时49分，她一家三口欲乘坐AF139次航班由武汉飞往巴黎，在天河国际机场国际航站楼办理值机手续时，工作人员告知其所乘坐航班已于9时35分截止办理值机手续，建议其改签或退票，并主动帮其联系航空公司协调。
+张某自称要出国参加重要会议，执意要乘坐该航班，不听机场工作人员解释与建议，多次协调未果后，10时23分，张某突然情绪失控，冲进值机柜台的工作区域，用手连续掌掴工作人员，引起了现场大量旅客的围观。
+打人者：知错了，能否少关几天
+湖北省公安厅机场公安局航站楼派出所接到报警后，迅速赶赴现场将张某控制，经过充分调查取证，张某已构成殴打他人的违法行为。机场公安局根据《中华人民共和国治安管理处罚法》依法对其处以行政拘留10日的处罚。
+办案民警透露，张某很快认识到了自己打人不对，她说，赶晚了飞机，心里很窝火，突然就冲动起来，打了工作人员，这种行为很不对，愿意接受法律惩罚，但她担心学校知道后对其事业产生影响，只是希望能否少关几天。
+朋友圈里引发热议
+被法航拉入黑名单
+此事引发热议，很多网友留言，航空公司应该将她拉黑，本来一句随意评论的话，竟然成真了...
+记者从武汉天河机场获悉，法航将打人女博士列入黑名单，全球范围拒绝承运；也就是说，该旅客在全球范围内将无法再坐法航航班。
+今天，湖北空港实业发展公司相关负责人告诉记者，目前，机场地服亦在向中国民航局申请将这名旅客列入中国民航黑名单旅客。一旦该申请成功获批，旅客就无法乘坐国内任何一家航空公司的航班，也就是这名女博士在国内也坐不了飞机了。
+一旦进入该黑名单后，该旅客在国内就无法购买机票。至于这次申请对这名旅客在多长时间之内会被拒售机票，究竟是两年还是更长时间？相关人士还在研究中。
+多知道点
+很多人可能也奇怪过，坐飞机的时候，明明离飞机起飞还有一个小时，为什么就截止值机了呢？
+这主要有三个方面的原因：
+托运行李需要时间
+托运的行李后面有很多道流程，比如行李安检，分拣完毕后地服部门根据宽窄体机型将行李装入箱里(宽体，多通道的飞机)或拖斗(窄体，单通道的飞机)，然后称重，再安排拖车拉到停机位，这些都需要时间。
+载重平衡需要精确计算
+这是个极其复杂且要求非常精准的步骤，直接关系到飞机平衡。柜台人员以及值机人员结算旅客人数，地服部门上报行李件数、重量，货运部门传输货邮件数、重量，这些数据汇总到载重平衡室，再根据配载系统里的相关数据，控制旅客座位的发放、货舱货邮和行李的装载，确保整个航班起飞、落地重量等的平衡重心在飞机设计性能安全允许的范围以内。如果不提前截止办理值机手续，可以说旅客、行李一出现变动，整个配载平衡可能都要进行重新计算。
+航空公司货运需要操作时间
+外场操作员根据配载的装载单执行货物和行李装机，这当中会产生实际装载与装载单有差异的情况(装货一般在起飞前50分钟左右就开始了，但是行李最终的重量和体积还得在乘机手续截止时间后经过分拣才能得知)，在行李没有全部到达机位，这中间都存在着不确定性。
+被法航拉黑
+还可能被中国民航拉黑
+被行政拘留10天
+还可能影响事业
+……
+这位女博士在打人的那一刻
+可能没有想到
+后果会这么严重
+然而，只能说
+成年人
+要为自己做过的事情负责！

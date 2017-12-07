@@ -1,0 +1,67 @@
+原始链接：http://news.163.com/17/0601/01/CLQE46H0000187VI.html
+
+山寨明星频现三四线城市：有假周杰伦、假韩红
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/G/P/VAKUPGFGP.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/01/jbDaH4972/SD/jbDaH4972-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+山寨明星频现三四线城市 他们最爱冒充哪位明星？
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+山寨明星频现三四线城市 他们最爱冒充哪位明星？
+（来源：original）
+
+近日在苏州举办的一场商业活动中，一名山寨明星“月光伍佰”假冒伍佰出席表演被粉丝识破，甚至引起了伍佰本人的关注。伍佰通过经纪公司发表公开声明，请粉丝们谨防受骗。据了解，类似山寨明星冒充本尊行骗的事例近年来已是屡见不鲜。
+“月光伍佰”假冒伍佰被粉丝识破
+据当地媒体报道，在此次冒充伍佰的事件中，现场主持人直接以“我们的摇滚教父、词曲创作人、音乐人、演员、摄影家，我们的伍佰老师”介绍山寨版“月光伍佰”出场。而“月光伍佰”出场后也没有澄清身份，反而继续假冒伍佰进行表演。在被主持人问到有关新专辑的问题时，他顾左右而言他地支吾道：“你们今天来这边是看房子啊，不是看我这个人对不对？我们来重点，所以专辑就不要那个了……”
+活动视频在网上转发后被伍佰的歌迷识破，纷纷发言谴责。伍佰本人第二天也转发了其经纪公司发表的公开声明：“有关伍佰老师演出活动，均会在艺人官方网站及本公司微博中告知。若有疑问，欢迎留言咨询，确认活动后，再行前往支持。”一看事情闹大，“月光伍佰”很快通过脸书账号发文道歉：“因事先不知情甲方公司要聘请的是伍佰本人，所以主持人也就不会表明我是模仿的。然后本人的最后一道防线也没做，上舞台时也未表明我是模仿的，因此冒犯了伍佰，在此郑重向伍佰道歉。对不起，本人是无意冒犯的，也慎重向粉丝歌迷们道歉。再次请求原谅。”
+山寨明星多出现在三四线城市
+像这样的事例近年来并不鲜见，周杰伦、谢霆锋、林俊杰、高晓松、韩红等明星都曾被山寨版冒充。据悉，这些山寨明星大多是通过头些年曾火爆一时的各类模仿秀节目出道，因其个人并没有真正的艺术修养和实力，很难以自家名号跻身娱乐圈，便只好借着明星的名头，混迹于三四线小城市，靠接一些商业活动或夜店小型演出谋生。如擅长模仿林俊杰的范一贤，自2012年来在全国各地以林俊杰名义参与各种商演，有时商家在演出海报上根本不提模仿秀，直接就写上“我和JJ林俊杰有个约会”当标语，如果不是忠实粉丝，一般人很难分辨真假。2008年时甚至还有一名山寨“周杰伦”假冒周杰伦做起了某电子产品的广告代言人，引发粉丝们的愤怒讨伐。
+一位资深演出业内人士告诉北京青年报记者，现在山寨明星在三四线小城市很有市场。“大牌艺人很少会到那些小城市去演出，而那里的人们也想追星，也需要娱乐生活，这就给了山寨明星们生存的空间。而且正因为小城市见到明星的机会不多，所以人们更容易上当。”另据透露，山寨明星们通常也都有经纪公司和经纪人，俨然已经成为娱乐圈的一个副产业。至于那些邀请山寨明星参加的演出和商业活动，有的主办方自己也是受骗者，并不知道请来的这个明星是山寨版，而有的是故意以假乱真，以实现吸睛和吸金的目的。
+明星遭山寨 总是很无奈
+由于山寨明星演出大多是打一枪换一个地方的非正规草台班子，因此很难进行管理和追责。比如林俊杰的粉丝们曾专门在脸书上设置过“反对范一贤假冒林俊杰进行商业活动”的粉丝专页并呼吁林俊杰的唱片公司出面解决此问题，但唱片公司方面表示，范一贤有时是用模仿秀名义演出，有时才是直接用林俊杰名号，演出时间和场所也变幻莫测，取证比较困难。另外，因为这些山寨明星毕竟影响范围有限，对明星本人权益也未形成太大的侵害，所以被假冒的明星们对此基本不会太过追究，一般只是通过微博等表达一下愤怒之情。如韩红曾举出自己明显的个人特征——牙缝，向骗子喊话：“没有牙缝绝对是假的，建议她去医院把牙齿锯出缝儿来再出去骗钱。”高晓松也曾调侃称：“一个山寨高晓松也就算了，可我已经瘦身了好吧？山寨麻烦能不能更敬业一些！你们为啥找个矮胖子破坏我在广大路人中的形象！无法忍！已经通知律师就身高体重问题严正交涉！另外眼镜和靴子麻烦买正牌货！”

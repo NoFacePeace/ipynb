@@ -1,0 +1,131 @@
+原始链接：http://news.163.com/17/0605/07/CM5CGN3P0001875P.html
+
+山东临沂一公司发生爆炸致1死9伤 负责人被控制
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/J/P/VCL8A2FJP.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/05/sHnrk4334/SD/sHnrk4334-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+山东临沂金誉石化有限公司装卸区仍然浓烟滚滚
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+山东临沂金誉石化有限公司装卸区仍然浓烟滚滚
+（来源：~）
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/8/Q/VCL7JGI8Q.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/05/uMsWz0735/SD/uMsWz0735-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+山东临沂金誉石化有限公司装卸区发生爆炸并引发火情
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+山东临沂金誉石化有限公司装卸区发生爆炸并引发火情
+（来源：~）
+
+6月5日凌晨1时左右，位于临沂市临港区团林镇埃沟一村的临沂金誉石化有限公司装卸区一液化气罐车在装卸作业时发生爆炸，引发火灾。目前，企业负责人已被控制。
+6月5日凌晨1时左右，位于临沂市临港区团林镇埃沟一村的临沂金誉石化有限公司装卸区一液化气罐车在装卸作业时发生爆炸，引发火灾。目前，企业负责人已被控制。
+这是6月5日拍摄的事故现场外围。据山东省临沂市临港经济开发区发布的最新消息，5日1时左右，临沂金誉石化有限公司装卸区发生爆炸并引发火情。截至目前，已发现1人死亡、7人失联、9人受伤。据了解，5日1时左右，位于临沂市临港经济开发区团林镇埃沟一村的临沂金誉石化有限公司装卸区一液化气罐车在装卸作业时发生爆炸，引发着火。新华社发
+这是6月5日拍摄的事故现场外围。据山东省临沂市临港经济开发区发布的最新消息，5日1时左右，临沂金誉石化有限公司装卸区发生爆炸并引发火情。截至目前，已发现1人死亡、7人失联、9人受伤。据了解，5日1时左右，位于临沂市临港经济开发区团林镇埃沟一村的临沂金誉石化有限公司装卸区一液化气罐车在装卸作业时发生爆炸，引发着火。新华社发
+５日１时左右，位于临沂市临港经济开发区团林镇埃沟一村的临沂金誉石化有限公司装卸区一液化气罐车在装卸作业时发生爆炸，引发着火。
+据临港经济开发区介绍，目前，已发现1人死亡，9人受伤。企业负责人已被控制。
+最新消息：
+【山东临沂金誉石化有限公司装卸区仍然浓烟滚滚】今天凌晨1时左右，位于山东省临沂市临港区团林镇埃沟一村的临沂金誉石化有限公司装卸区一液化气罐车在装卸作业时发生爆炸，引发火灾。央广记者在现场警戒区外看到，火灾现场目前依旧浓烟滚滚，而且隐约可以看到明火。（央广记者刘华栋）
+【临沂市临港区金誉石化“6.5” 爆炸火灾事故最新情况】据临沂市临港区金誉石化“6.5”爆炸事故救援指挥部最新消息，截至6月5日11时30分，事故共造成1人死亡，7人失联，9人受伤（其中1人重伤）。
+6月5日凌晨1时左右，位于临沂市临港区团林镇埃沟一村的临沂金誉石化有限公司装卸区一液化气罐车在装卸作业时发生爆炸，引发火灾。目前，企业负责人已被控制。
+记者从临沂市临港经济开发区了解到，截至5日上午11点左右，金誉石化公司内尚有异辛烷罐区、液化气罐区、装置区存在明火燃烧，现场火势仍在控制中，6个液化气球罐及4个异辛烷储罐燃烧比较稳定，消防人员正在全力组织明火扑灭，并对相邻罐区进行喷淋降温。
+据初步调查统计，作业区当班职工共42人。目前，已有34人取得联系，已发现1人死亡， 7人失联。企业负责人已被控制。
+事故发生后，山东省已经派出消防总队专家和安监局人员前往指挥，相关部门已经启动事故应急预案。消防人员正组织灭火救援，并对周边村庄及相邻企业群众进行疏散安置。（央视记者 赵智明）
+【山东临沂一公司发生爆炸并引发火情1死6伤7人失联】据山东省临沂市临港经济开发区发布的最新消息，5日1时左右，临沂金誉石化有限公司装卸区发生爆炸并引发火情。截至目前，已发现1人死亡、7人失联、6人受伤。
+【山东临沂一公司发生爆炸 已发现1人死亡6人受伤】据山东省临沂市临港经济开发区发布的最新消息，5日凌晨1时左右，位于该区团林镇的临沂金誉石化有限公司装卸区发生爆炸并引发火情。截至目前，已发现1人死亡、6人受伤。详细情况正在进一步了解核实中。
+另据北京青年报：
+【山东临沂一石化公司装卸区凌晨发生爆炸】据山东临沂市临港经济开发区宣传办公室官方微博通报，6月5日凌晨一时左右，位于临沂临港经济开发区团林镇的临沂金誉石化有限公司装卸区发生爆炸并引发火情。临沂临港经济开发区第一时间启动了应急响应程序，相关部门正在现场进行紧急处置。事故情况将随时对外发布。
+住在距离爆炸地点约三四公里外的一位村民介绍说，爆炸发生后自己立即和住在附近的朋友取得了联系，得知附近几个村里多户人家门窗受损严重，目前已被疏散。这位村民告诉北京青年报记者，凌晨一点的时候听见了第一次巨响，“我家门都震开了”，此后陆陆续续共听到八次“咚”的声音。（北青报记者 孔令晗 视频自网友）
+新华社济南6月5日电 记者5日从山东省临沂市临港经济开发区有关部门获悉，5日1时左右，位于临沂临港经济开发区团林镇的临沂金誉石化有限公司装卸区发生爆炸并引发火情。目前，有关人员伤亡、财产损失等情况正在统计核实当中。

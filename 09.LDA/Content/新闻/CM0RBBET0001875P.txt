@@ -1,0 +1,83 @@
+原始链接：http://news.163.com/17/0603/13/CM0RBBET0001875P.html
+
+女教师与男学生发生关系 为何认定猥亵而非强奸？
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/G/Q/VCKU4F8GQ.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/01/kQsEF5945/SD/kQsEF5945-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+3D：江苏一女教师与13岁男生发生关系，获刑3年
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+3D：江苏一女教师与13岁男生发生关系，获刑3年
+（来源：original）
+
+5月31日，江苏省常州市中级法院发布了一起案例，常州市金坛区某中学一名女教师与其班上一名男同学（事发时未满14周岁）多次发生性关系，因犯猥亵儿童罪，被判有期徒刑3年。
+读者君
+方圆菌，女老师与男同学发生性关系被判猥亵儿童罪，你怎么看？
+方圆菌
+说实话，方圆菌看到这个新闻，第一反应是尴尬，大写的尴尬。当然，不是因为案件性质，想方圆菌也阅案无数，如何离奇的案件都见过，比如去年江西九江男子性侵果园老大爷的案件，不比这案件更惊悚？方圆菌尴尬的是，这案件一火，刑法中关于男性被强奸的法律漏洞又要被拿来批判一番了。
+猥亵就是猥亵，强奸就是强奸
+在讲“漏洞”之前，方圆菌先来讲一讲国内刑法对性侵这种行为具体是怎么规定的。
+目前，刑法中与性侵有关的罪名有强奸罪，强制猥亵、侮辱罪，猥亵儿童罪等。 强奸罪，即以暴力、胁迫或者其他手段强奸妇女；奸淫不满十四周岁的幼女，以强奸论，从重处罚。强制猥亵、侮辱罪是指以暴力、胁迫或其他方法强制猥亵他人或者侮辱妇女。猥亵儿童罪比照强制猥亵、侮辱罪从重处罚。
+这样一看，只有女性能被强奸，男性如果被强奸，定不了强奸罪，只能退而求其次，认定为强制猥亵罪、猥亵儿童罪（强制侮辱罪的犯罪对象也只能是女性）。问题便出现了，男性被“强奸”，为啥要定成“猥亵”呢？法理上，强奸是强制性交的行为（性交是男女与女性生殖器结合的行为，不包括鸡奸、手淫等），猥亵是除性交以外的淫秽行为（包括鸡奸、手淫等） ，说白了，应该是两个相互对立的概念，不能因为都与性有关，就强行转化啊。
+有朋友表示，强奸比猥亵更加严重，刑法自古就有所谓“入罪举轻以明重”的原则，较轻的猥亵男性都入了罪，强奸男性还能不是犯罪吗？
+方圆菌认为，首先，“入罪举轻以明重”是我国古代的刑法原则，这个原则在国内现行刑法上是行不通的。我们现行刑法规定了罪刑法定的原则（《刑法》第3条，法律明文规定为犯罪行为的，依照法律定罪处刑；法律没有明文规定为犯罪行为的，不得定罪处刑），既然强奸男性的行为没有明文规定为犯罪，就不能定罪处刑，否则是违反刑法原则的。
+然后，凭什么强奸就要比猥亵更加严重呢？强奸罪的量刑区间为有期徒刑3年以上至死刑，强制猥亵、侮辱罪和猥亵儿童罪的量刑区间为拘役至有期徒刑15年，两者量刑区间是有重合的，总有强制猥亵、侮辱罪和猥亵儿童罪比强奸罪判得重的时候，根据罪责刑相适应原则，方圆菌是不是可以说，猥亵比强奸更严重了呢？
+又有朋友要说，强奸一般都伴随着猥亵行为，比如，强奸男性时，总要暴露自己的生殖器官吧？总要脱下对方的裤子吧？总要抚摸、搂抱啥的吧？确实，这些除性交以外的淫秽行为可以认定“猥亵”，以猥亵行为定强制猥亵罪、猥亵儿童罪当然没有问题。
+但我们来看常州这起案件，尴尬就尴尬在，常州市中级法院发布的文章中，只提及了女教师“多次与学生发生性关系”，没有找到任何发生除性交以外的淫秽行为的信息。试想一下，如果女教师只是与男学生性交，那还成不成立“猥亵”？如果不成立猥亵，猥亵儿童罪又从何说起？
+不过，最高法已经着手调研猥亵儿童情节恶劣的认定标准了，通过研究执行相关司法文件、发布指导性案例等形式，确保相关法律规定得到准确有效贯彻实施。
+读者君
+方圆菌，男性被强奸没人管，该怎么办啊？
+方圆菌
+这位朋友问得好，批判不重要，重要的是，现在怎么办。方圆菌认为，问题主要出在刑法上，修法才能解决这个问题。
+同时，因为缺乏法律保护，社会应当更加注意避免强奸男性的事件发生，以及在这类事件发生之后对被害人进行必要的救济。
+实际上，男性被性侵的比例并不比女性被性侵的比例低多少。根据2013年美国司法部公布的一份犯罪报告，统计的4万多起性犯罪中，有38%是针对男性的。
+正因如此，世界上许多国家，包括德国、法国、奥地利、芬兰、加拿大等国的刑法，都将强奸罪及其他侵犯型的性暴力犯罪对象规定为一般人，并不区分性别，只是在涉及未成年人遭性侵方面有更严格的规定。俄罗斯的刑法还专门规定了针对男性的性暴力犯罪，英国也专门规定了实施鸡奸的侵犯罪和男人之间的猥亵罪。还有国家规定了利用职权性侵的罪名。
+方圆菌建议，可以借鉴国外好的经验。性自主权利是所有人都应该享有的权利，而不是女性专属的权利，所以性侵犯的对象应该规定为一般人。 因女性和未成年人的弱势，法律可以规定特别条款对其加以更多的保护。此外，利用职权或优势地位性侵的，也可以考虑规定为从重处罚的情节。
+法律救济方面，还应当完善性侵案件中的民事索赔制度。 侵权责任法第22条规定，侵害他人人身权益，造成他人严重精神损害的，被侵权人可以请求精神损害赔偿。性侵案件通常会造成被害人较大的精神冲击，例如此前台湾女作家林奕含的自杀事件，就是因为性侵导致的精神抑郁而导致的。
+说到最后，方圆菌还想提醒大家，在未成年人被性侵的问题上，一定要分清是非。法国有一部拍摄于1988年的电影《功夫大师》，讲了一名将近40岁的女人与其女儿的同班男同学（不满15岁）的“爱情故事”，网络上有大量称颂这种“伟大爱情”的文章和评论。方圆菌想，常州性侵事件目前没有更多细节披露，那么如果男孩是自愿的呢？两人都出来表示“真心相爱”呢？总不能一边痛骂女教师衣冠禽兽，一边又赞美那是“伟大爱情”吧？

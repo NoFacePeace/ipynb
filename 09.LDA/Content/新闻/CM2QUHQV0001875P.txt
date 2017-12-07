@@ -1,0 +1,68 @@
+原始链接：http://news.163.com/17/0604/08/CM2QUHQV0001875P.html
+
+ 男子为躲家中"母老虎" 故意酒驾自首求拘留
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/P/O/VAL5A6TPO.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/04/HUQqe3882/SD/HUQqe3882-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+为躲家中“母老虎” 男子故意酒驾求拘留最终如愿以偿
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+为躲家中“母老虎” 男子故意酒驾求拘留最终如愿以偿
+（来源：original）
+
+5月19日晚十一点多钟，安徽省宁国市公安局交通管理大队河沥溪中队门口有人在大喊大叫，称自己饮酒，要求中队民警对他进行处理。男子自称姓鲁，于是，交警把驾驶员鲁某及随车的人员带回中队进行询问。
+交警：“在家里喝的酒啊？”
+嫌疑人鲁某：“对。”
+交警：“跟谁一起喝的酒？”
+嫌疑人鲁某：“自己一个人喝的。”
+交警：“自己在家里喝这么多酒，怎么还开车子呢？”
+嫌疑人鲁某：“我要自首。
+交警调取监控视频发现，鲁某确实是开车来交警队的。随后，交警用呼吸式酒精测试仪对鲁某进行测试，确认鲁某有饮酒嫌疑。然而面对交警的询问，鲁某竟坦然自若地说：“我什么时候能负刑事责任？如果能早一点负刑事责任，我早一点回来。”
+经过调查，因生活琐事妻子经常与鲁某发生争吵。当晚吵过架之后，鲁某心情很郁闷，于是借酒消愁，并匪夷所思地想到酒驾可以拘留。为了躲避家庭的烦恼，于是鲁某驾车开到交警队要求交警对他进行处理。
+交警对其进行了严肃的批评教育，随后将其带至市医院进行抽血检验。经相关机构检测鉴定结果为，嫌疑人鲁某每100毫升血液中酒精含量达到了123毫升，属于醉酒驾驶机动车辆，涉嫌危险驾驶罪。

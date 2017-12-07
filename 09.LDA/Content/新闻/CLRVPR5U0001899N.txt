@@ -1,0 +1,65 @@
+原始链接：http://news.163.com/17/0601/16/CLRVPR5U0001899N.html
+
+奥迪车主殴打前车礼让行人司机 称"你是不是想死"
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/0/E/VCKU65D0E.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/01/iBCFx4704/SD/iBCFx4704-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+斑马线礼让行人反惹祸？ 后车司机嫌慢殴打谩骂前车
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+斑马线礼让行人反惹祸？ 后车司机嫌慢殴打谩骂前车
+（来源：~）
+
+昨日，一段行车记录仪拍摄下的视频在网上热传。该视频显示，5月30日在石家庄裕华路，一车辆因在斑马线礼让行人转弯速度较慢，后面的奥迪车主心生不满，不但频繁摁喇叭催促，还超车将前车别停，并下车抽打前车司机的头部、脸部，并不停地叫骂“我抽死你，你不加油是吧，你是不是想死……”
+事件发生后，被打车主向警方报案。警方迅速成立专案组，全城搜捕该寻衅滋事嫌疑人。6月1日下午13时40分许，记者从交管部门获悉，该男子在乘飞机前，在登机口被警方抓获。
+下午15点40分，石家庄市公安局交通管理局就此事召开了新闻发布会，通报了这起案件。
+犯罪嫌疑人刘强，在派出所接受讯问
+石家庄市交管局副政委周文华：今天中午13点30分，嫌疑人在石家庄正定机场被抓获，当时嫌疑人正打算乘坐一架飞往长春的飞机离开石家庄。现场同时起获了嫌疑人的红色奥迪车。
+近期，石家庄交警推出了“最严交规20条”，就是为了纠正交通参与者的违法行为，也是为交警执法提供保障。
+其中第七条就规定，机动车行经斑马线时应礼让行人。如果不礼让行人，将罚款50元，记3分。

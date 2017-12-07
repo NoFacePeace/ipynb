@@ -1,0 +1,125 @@
+原始链接：http://news.163.com/17/0604/01/CM234TKQ000187VI.html
+
+"广场舞抢地盘"大妈:新场地太小 不够两百多人跳
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/D/0/VCKU4AND0.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/01/ucLHn2847/SD/ucLHn2847-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+争坝！打篮球的年轻人和跳广场舞的大叔大妈动手了
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+争坝！打篮球的年轻人和跳广场舞的大叔大妈动手了
+（来源：~）
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/A/2/VCKU7D0A2.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/01/VQpxl6085/SD/VQpxl6085-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+打篮球小伙与广场舞大叔大妈互殴起因曝光 
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+打篮球小伙与广场舞大叔大妈互殴起因曝光 
+（来源：~）
+
+近日，网上流传着一个视频，在一个被铁丝网封闭的篮球场上，一群大爷大妈围着一个年轻人，发生了非常激烈的肢体冲突，双方大打出手，并且整个视频都伴随着双方对骂的声音。
+在事发之前的一段视频中，打篮球的年轻人曾经主动找到跳广场舞的大爷大妈商量，希望双方能够各用篮球场的半边场地，但是并没有谈拢，最终由言语冲突发展成为肢体冲突。目前警方已经介入，而篮球场则被暂时封闭。
+事发之后，引发了大量的网友讨论，网友讨论的核心就是，大爷大妈是否应该在篮球场跳广场舞。大部分网友认为，篮球场就是篮球场，应该让人打篮球，广场舞受场地限制比较小，在任意一片开阔地就可以，但是打篮球需要有篮筐以及合适的场地。
+当然也有网友为挨打的年轻人打抱不平，认为是一名穿红色衣服的大叔先动手，并且年轻人道歉之后不依不饶，也有网友发了一张“十年前、十年后”的照片表示对大爷大妈的愤慨并支持挨打的年轻人。
+有网友评论：打篮球只能去篮球场，广场舞却可以随便哪里都行。
+也有网友称：上次被轰走是在地震所的篮球场，老头老太太说拍球影响地震预测。
+洛阳王城公园篮球场内跳广场舞的大爷大妈与年轻人争夺场地事件有了新进展。自打人事件发生后，6月2日晚，公园已将篮球场暂时关闭，至今仍未开放，之后公园负责人为跳广场舞的中老年人开辟了一块新场地。
+6月3日晚，一名王城公园的工作人员告诉北青报记者，目前篮球场仍处于关闭状态，“早上开放了一会儿，给年轻人来打球，12点之后又关了”。
+这名工作人员介绍，公园给广场舞爱好者重新安排了一块活动场地，在公园内部，有半个篮球场大。园方同时为这些广场舞爱好者配置了照明设施，“他们昨天晚上就在那跳了”。
+昨天，广场舞爱好者杨阿姨告诉北青报记者，公园负责人已为他们重新找了一块空地用来跳广场舞。不过杨阿姨觉得，这片场地空间有限，无法容纳200余人的广场舞队伍，“还是希望能够开放篮球场”。
+广场舞队的临时代表韩师傅告诉北青报记者，冲突发生后，公园方面一直在从中调解。目前园方给他们一方的方案是希望广场舞队能将开始时间调至7点半，韩师傅说，他们能接受这一方案，但希望能提前和8点后来此打球的年轻人协商，“我们正好夹在中间，时间往后延了，另一拨儿年轻人可能会不乐意。”此外，韩师傅表示，希望公园能够在篮球场内安装照明灯，“进入篮球场需要下一个大台阶，时间越往后延天色越暗，老年人眼神不好，容易发生意外。”
+对于5月31日发生的冲突，韩师傅表示，双方都有责任，“年轻人说话不好听，当然我们态度也存在问题”。
+篮球球友程先生则告诉北青报记者，冲突发生至今他们和广场舞爱好者没有正面协商过。现在年轻人尚没有得到解决方案。

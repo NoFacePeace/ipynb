@@ -1,0 +1,92 @@
+原始链接：http://news.163.com/17/0603/21/CM1NE3TD0001899N.html
+
+女博士误机打人被法航永久"拉黑" 这意味着什么？
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/J/5/VWL2UVUJ5.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/03/gOmVM5010/SD/gOmVM5010-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+某名牌大学女博士情绪失控，大闹天河国际机场值机柜台，
+（来源：）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+某名牌大学女博士情绪失控，大闹天河国际机场值机柜台，
+（来源：）
+
+出国参加重要会议，自己迟到误机后掌掴机场工作人员……6月1日上午，武汉某名牌大学在读女博士因大闹武汉天河国际机场值机柜台，被机场警方依法处以行政拘留10日，今日（6月3日），重案组37号了解到，法航决定将这名乘客列入黑名单，在国内9个通航点对其拒绝承运。航空专家解读说，黑名单制度在欧洲航空公司推行已久，被列入黑名单，意味着该乘客在日后的生活中，在诸多方面都将受到限制。
+张某大闹机场后，被警方拘留10日。 图片来自网络
+迟到误机 女博士掌掴值机员
+6月2日，一段值机员在机场被打的文字与视频，在法航员工内部的群内传播开来，大家纷纷转发并表示愤慨，据其中一名转发该消息的员工说：“有个乘客自己误了飞机还打人，我们都觉得特别气愤”。
+法航工作人员在朋友圈转发事件经过。 手机截图
+重案组探员随即根据线索，联系到事发机场——武汉天河国际机场某航空公司的员工马先生，据其介绍，6月1日早上9点35分，由武汉飞往巴黎AF139次航班停止办理乘机手续。早上9点49分，一家三口3名旅客来到机场值机柜台处，要求值机员为其办理乘机手续。
+“当时柜台值机员耐心解释，告知他们柜台已经截止办理手续，并建议他们改签或者退票。”马先生介绍，其中一名女性旅客一直骂骂咧咧，说如果不给办理就投诉值机员。此后，多次沟通无果，该旅客闯进柜台，朝着值机员的脸狠狠地打了两巴掌。“声响很大，周围的工作人员和旅客都围了过来。”
+马先生告诉探员，被打的值机员是一名女子，平日里温柔乖巧，非常有礼貌。“事发后，她被送往医院，打人的女子也被警方带走。”自称是被打值机员同事的一名网友发文称，事发时，被打女子“发出尖叫，一下就哭出来了，隔着几个柜台都能听到。”
+事发现场视频显示，6月1日10点26分左右，在机场值机柜台处，一名黑衣女子抡起右手，朝着柜台内白衣女子的脸部打了两下，被打女子随即捂住脸，坐到了座位上。
+据了解，根据规定，国内航班统一提前40分钟截载，国际航班以各外航公布的时间为准，法航是提前60分钟截载。张某一家三口欲乘坐的AF139次由武汉飞往巴黎航班应于9时35分截止办理值机手续，而张某在值机柜台办理手续是9时49分，因自身原因迟到14分钟，值机员的处置程序没有问题。
+公安部门对打人者处以10日拘留。 视频截图
+打人女博士被处拘留10日
+湖北省公安厅机场公安局很快对该事件做出了处理。据公安机关通报，打人者张某现年36岁，是武汉某大学在读博士。6月1日上午9时49分，张某一家三口欲乘坐AF139次航班由武汉飞往巴黎，在武汉天河国际机场国际航站楼办理值机手续时，工作人员告知其所乘坐航班已于9时35分截止办理值机手续，建议其改签或退票，并主动帮其联系航空公司协调。
+张某自称要出国参加重要会议，执意要乘坐该航班，不听机场工作人员解释与建议，多次协调未果后，10时23分，张某突然冲进值机柜台的工作区域，连续掌掴工作人员2次，引起现场大量旅客围观。
+湖北省公安厅机场公安局航站楼派出所接警后，迅速赶赴现场将张某控制。经过充分调查取证，张某已构成殴打他人的违法行为。机场公安局根据相关规定，依法对其处以行政拘留10日的处罚。6月1日晚，张某被送入拘留所接受处罚。
+航空公司公布的值机事件。 图片来自《楚天都市报》
+重案追踪
+法航在国内9个通航点将打人者“拉黑”
+6月3日，武汉天河机场地服公司副总经理章女士告诉探员，此事发生后，法航的工作人员依据其公司相关管理要求，要求中国大陆9个法航通航点将该名旅客列入“不受欢迎的旅客”名单，“也就是说，这名旅客在国内9个法航通航点已无法乘坐航班。”章女士介绍，法航工作人员也已经向巴黎总部提出申请，明确是否要在全球范围拒绝承运该名旅客。“但是此事需要一定的工作流程，目前尚未确定。”
+据章女士介绍，依据《民航旅客不文明行为记录管理办法（试行）》，机场地服已将该旅客的信息上报至中国民航局，各航空公司可以通过内部平台获取这一信息。
+重案解读
+被法航“拉黑”意味着什么？
+针对此次事件和处理结果，探员咨询了中国航空法律服务中心首席专家、蓝鹏律师事务所张起淮律师，张律师表示，此次航空公司的处理是有史以来最严厉的一次，被法航列入“黑名单”将对其日后生活有一定影响，同时，国内的黑名单制度也急需出台规范。
+国内“机闹”面临有史以来最严厉处罚
+张起淮分析说，此次确实是迄今为止国内因违反法律法规和民航规定而受到的最严厉处罚，不仅处以行政拘留10日，而且或将被法航永久拒载。
+殴打他人，是指行为人公然实施的损害他人身体健康的打人行为，行为方式一般采用拳打脚踢，或者使用棍棒等器具殴打他人。殴打他人，与人与人之间轻微的争执和冲突有所区别。经调查，该名旅客的行为已构成殴打他人，且扰乱了机场的正常秩序，因此根据《中华人民共和国治安管理处罚法》的相关规定，该乘客被处以行政拘留10日。
+不论在哪个机场，国际航班地面保障人员为旅客提供的服务归属于该航班的承运人。从某种程度上而言，值机员提供值机服务是法航服务的延伸，因此该名旅客对值机员的殴打行为，也受到了法航的处罚。
+黑名单制度在欧洲已经较为成熟，有着充分法律依据和统一的执行标准，由于该名旅客的行为触犯了黑名单制度，因此法航立即做出将其列入黑名单，考虑在全球范围内拒绝承运的决定，并予以公布。当然，法航作出此决定与包括湖北机场集团有限公司、湖北空港实业发展公司在内的中方机构给法航提供的建议相关。
+被列“黑名单” 生活将受影响
+张律师介绍，法航隶属于法国航空-荷兰皇家航空集团，该集团是欧洲最大的航空公司，也是世界上最大的航空公司之一。法航在欧洲各国有密集的航班，覆盖多条航线，因此被法航拒载将给其在多国的生活带来诸多不便。而且一旦被法航列入黑名单，日后在购票、值机、登机等环节，各航空公司也能看到该黑名单记录，对旅客的乘机体验和名誉都会造成影响。
+此次事件中，对该名旅客的处罚虽然严厉，但仍不算十分严重。就法航的黑名单而言，如果该名旅客认为处理不妥，可以通过向法航提出异议或者申诉等渠道解决。即便列入法航黑名单的决定最终被执行，该名旅客也可通过日后的良好表现，争取申请撤销该黑名单。
+国内急需建立“黑名单”标准与规范
+张律师说，根据中国航空运输协会2017年5月10日公布的消息，目前已有八批民航旅客不文明行为记录名单，有106名旅客进入该名单。但不论最终是否将该名旅客列入，现有民航黑名单都不具有法律依据。中国民用航空局至今没有依法建立民航黑名单制度，也没有确立对黑名单旅客的惩戒或者限制标准。
+现行的《民航旅客不文明行为记录管理办法（试行）》系由中航协颁布，没有遵循立法程序，并不具有法律效力。虽然，我国民航黑名单制度被多方呼吁，但却没有从立法上予以确立。

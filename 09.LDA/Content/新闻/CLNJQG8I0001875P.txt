@@ -1,0 +1,87 @@
+原始链接：http://news.163.com/17/0530/23/CLNJQG8I0001875P.html
+
+小区业主进行自治投票 一群人冲进场打砸撕毁选票
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/5/O/U/VCKPQ3DOU.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1705/30/ymzaj7794/SD/ymzaj7794-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+业主开会唱票物管冲进场打砸撕选票
+（来源：56网）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+业主开会唱票物管冲进场打砸撕选票
+（来源：56网）
+
+你家小区成立业主委员会了吗?
+这听起来离生活很近又有些距离的问题
+大大君想先分享一个故事再与大家聊聊
+“别无选择
+也没有退路
+不成功便成仁”
+这是写在金洲花园业主大会手册上的一句关于第三届业委会成员许下要小区自治管理的决心的话!
+5月17日，深圳罗湖金洲花园业主大会开箱验票当天，业委会办公室遭到小区管理处工作人员及部分业主的冲击，票箱被打砸，选票被毁，业委会数名委员也惨遭殴打。
+东湖街道办物管办已介入协调处理，而金洲花园管理处保安队长何某也因涉嫌殴打他人被警方行政拘留15日。警方表示该案件正在进一步调查中。
+开箱验票现场 一群人砸烂票箱
+金洲花园位于罗湖区东湖街道与龙岗区布吉街道的交界处，俗称插花地带。此前属于龙岗区管辖，后被划入罗湖区东湖街道。目前小区有12栋建筑，共471户人家近两千居民。
+小区物业管理从最初2001年入伙至今都由金洲物业管理公司管理。除了管理处，小区也成立了业主委员会。
+金洲花园内，挂着业主大会的宣传横幅。
+有金洲花园业主反映，5月17日上午，该小区业委会在进行业主大会关于“自治管理”的投票决议后，在进行开箱验票的现场，遭到金洲小区管理处工作人员殴打，在冲突中管理处的工作人员把票箱抢走，并当场砸烂票箱撕毁所有选票。
+ 金洲花园业主大会的投票箱遭到抢砸，票箱的选票被毁
+南都记者来到金洲花园10栋2单元005室的门口，也就是金洲花园业主委员会的办公室的所在地，尽管冲突已经过去几个小时，业委会门口的草坪上还残留着票箱的几块木板，木板上留有清晰的泥脚印子。
+“其实，一早就有预料管理处会来捣乱的，但没想到他们在光天化日之下，还敢这么打人!”业委会主任谭金光扶着红肿的右半边脸说，关于小区业主选择金洲花园物业管理模式、追讨维修资金等问题，第三届业委会决定召开业主大会会议，投票时间为5月9日-5月16日，5月17日为约定的开箱验票的时间。
+另一位业委会成员张女士则表示，金洲花园管理处知道业主大会的几项议题后，一直在阻挠业主进行投票，以“维持秩序”为由派安保人员在业委会办公室外巡逻，还对业委会成员进行恐吓。
+张女士透露，最早的打斗是从她和一位女业主杨女士开始的。当时现场有街道办、社区工作站、片警等相关人员正在沟通开箱验票细节时，办公室外突然聚集了数十个人，有小区的业主，也有管理处的人。
+通过张女士提供的视频可以看到， 业主杨女士领着一帮人冲上去揪住张的头发，两人厮打在一块，旁边的人也随后加入了更大的混乱的斗殴中。
+据谭金光透露，金洲物业管理有限公司的陈经理、主任张某和保安队长何某三人冲进办公室，先抢走票箱，后殴打谭金光等在场的业主。并在办公室门口的草地上把票箱砸碎，撕碎了里面17张选票。
+另一名被打的业主陈先生告诉南都记者，他并不是业委会的成员，只是想上去劝架，谁知被保安队长何某追打。身上多处软组织挫伤、擦伤。事发后，双方被带到东湖派出所进行调查处理。
+5月18日上午，被殴打的陈姓业主站在业委会办公室内，准备和业委会一起去街道讨说法
+事发后，双方被带到东湖派出所进行调查处理。罗湖警方回应称，金洲管理处的保安队长何某因为殴打他人被处以行政拘留15天。关于谁抢了票箱、砸了票箱以及谁损毁了选票，警方表示目前仍在调查中。
+金洲物业管理处：跟打人没有任何关系
+事后，金洲物业管理处主任张某接受采访时表示，当天管理处的工作人员的确在现场，是为了维护开票现场的秩序，打人、抢票箱的人并不是该管理的员工，而是对于小区第三届业委会操作此次投票不满的业主所为。
+他透露，由于业委会设置了诸多投票的障碍，业委会要求业主把个人房产证及身份证的复印件留底，作为核实业主身份的凭证，不提供就不让领取选票，则视为弃权，如此一来，让广大业主的投票权利得不到尊重，才会出现当天的冲突。
+张某表示，金洲花园管理处已经在该小区管理了17年了，还曾荣获罗湖区安全文明标兵小区。而业委会私自成了物业公司，注册地址就是现业委会办公室的地址。目前业委会要求该物业公司交出这几年日常收取的专项维修资金，并向住建局投诉。他认为业委会是要逼走他们，然后自己成立物业公司，要赚业主的钱。
+东湖街道办：未发现业主大会流程违规

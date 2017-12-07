@@ -1,0 +1,101 @@
+原始链接：http://news.163.com/17/0521/23/CL0E47580001875O.html
+
+奥巴马做这件事用了8年 特朗普却只花了1天
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/5/E/M/VCK17J9EM.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="https://flv.bn.netease.com/videolib3/1705/21/ghRMn3208/SD/ghRMn3208-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+特朗普访问沙特期间 与众人“尬舞”
+（来源：56网）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+特朗普访问沙特期间 与众人“尬舞”
+（来源：56网）
+
+“应该全面禁止穆斯林入境美国。”公开的反穆言论，让特朗普在美国去年的那场总统竞选战中，把自己牢固地钉在了伊斯兰世界的对立面。
+如今，特朗普上任不到半年，要出差了，出访首站，就选在沙特阿拉伯。
+据悉，特朗普是历史上第一位将沙特选为任上出访首站的总统。他还将到访以色列耶路撒冷，为重启巴以和谈作出努力。随后将在梵蒂冈与教皇会面，最后前往意大利西西里参加北约峰会。
+政知圈发现，这意味着，9天内，特朗普将把伊斯兰教、犹太教、天主教的圣地都转了一遍。
+沙特特批4.6亿迎特朗普
+当地时间5月20日，特朗普已经到了沙特阿拉伯，还在那里和王室成员吃了顿晚宴。
+照片中，一身西装的特朗普在众多身着长袍、头戴纱巾的“大胡子”中间，显得格格不入。不过他拎着宝剑跳舞的场景，让人不难看出其心情不错。
+穿西装的特朗普
+高兴的原因，想必和沙特一方高规格的接待不无关系。为了迎接特朗普，据当地媒体报道，沙特拨款2.57亿里亚尔(约合4.6亿元人民币)，这将成为沙特王国历史上最盛大的接待活动。
+沙特工作人员在打扫红毯
+钱，不是白花的。
+当地时间5月20日，特朗普的专机降落在沙特首都利雅得机场，携第一夫人出访的特朗普，下飞机后看到的是亲自接机的沙特国王萨勒曼，和拉起彩烟列队飞过的沙特军机。
+萨勒曼国王亲自迎接
+此番场景，与仅仅一年前奥巴马的来访，判若天地。
+沙特作为海湾地区发展最为稳定的国家，一直以来都是美国在中东的传统盟友，但沙特一直视伊朗为敌对国。奥巴马政府时期，因伊朗核协议问题使得沙美关系降至历史低点。2016年4月，奥巴马任内最后一次访问沙特时遭到“冷遇”，沙特国家电视台甚至没有播放其抵达沙特的消息，国王萨勒曼也没有亲自到机场迎接。
+相比奥巴马奉行平衡沙特和伊朗关系的政策，特朗普上台后一边批评前任软弱，一边往伊朗扔了好几个导弹，180°的转变，沙特如此欢迎这位强硬的美国新掌门，也就不难理解了。
+落地就签1100亿美元大单
+作为石油输出国组织欧佩克最大产油国，沙特从来“不差钱”。
+特朗普到访沙特当天，便与国王萨勒曼就双边关系和中东地区形势举行会谈。随后，双方火速签署了价值高达1100亿美元的军售协议。美国五角大楼国防安全合作局局长里克塞表示：“交易完成后，将成为美国历史上最大的单笔军火交易。”
+当天，随同特朗普出访的美国国务卿蒂勒森与沙特外交大臣朱拜尔共同举行了新闻发布会。蒂勒森说，军售协议是为保护沙特和海湾地区的安全，也是为加强沙特在地区内展开反恐行动的能力，从而减轻美国的军事负担。
+政知圈注意到，有评论称，特朗普希望将这一军售大单能被视作美国对海湾地区安全的全新承诺，另外，这一军火大单有望成为鼓励海湾国家成立“阿拉伯版北约”同盟的“基石”。
+相比之下，奥巴马执政8年内向沙特总共出售了1150亿美元的武器，这在当时同样创下两国结盟70多年来的最高纪录。虽然立即生效的这个军售大单，同样将在此后10年内相继兑现，但据中国日报网转载消息，除了立即生效的这1100亿美元军售协议，两国还达成在今后10年总价值3500亿美元的防务合作协议。
+朱拜尔（Adel al-Jubeir）把此次会谈的成果称为美国和沙特及其他海湾地区盟友间关系的转折点。特朗普也评论，这份军售合同将给美国带来数千亿美元的投资和工作，而这一切都要“归功于沙特人民”。
+萨德反导系统或在订单之中
+那么，双方高度评价的这单生意，美国将卖给沙特什么呢？
+订单的详细内容，白宫虽然并没有透露，但从美国媒体的报道中可知一二。
+《华盛顿邮报》报道透露，美国将对沙特提供的武器包括海军舰船、坦克和其他军事车辆，还有提升沙特网络安全和空中情报搜集的设备。另外，订单中同样包括一些还未通过论证的新武器，比如萨德反导系统，和韩国一样，美国也一直希望在沙特部署萨德反导系统。另外，《赫芬顿邮报》报道提到，订单包括60亿美元的150架洛克希德马丁公司制造的黑鹰直升机。
+黑鹰直升机
+沙特曾被披露拥有22.7万军力，包括7.5万名陆军、1.35万名海军和2万名空军，新签下的大单无疑让沙特的武器装备力量更强。
+它的力量到底有多强？政知圈（微信ID:wepolitics）找到一个研究结论，早在2015年，位于伦敦的国际战略研究所(IISS)曾评估指出，沙特是海湾地区拥有最强武器装备力量的国家。
+上述智库在一份报告中指出，沙特陆军拥有600台重型坦克，780台轻型坦克，还有1423台装甲运兵车。沙特空军配备了313架战机，其中包括F-15、“狂风”战机、“欧洲台风”战机和直升机。
+报告还称，沙特还有军事现代化计划，包括订购AT导弹、轮式装甲战车等。通过购买美国造“小鸟”直升机、阿帕奇直升机和“黑鹰”直升机，沙特已经组成了自己的空军联队。
+在沙特的军力储备中，有大约1.6万名士兵致力于防空工作，2500人负责战略导弹工作，还有10万人是国民警卫队的人。
+“通俄”这道坎还没过去
+一向“心宽体胖”的特朗普，想必对上述这种出发于民主党价值观的质疑，早已麻木不理。但其最近在国内面临的被弹劾风险，他一定不会充耳不闻。外媒表示，特朗普此次出访，转移国内有关其“通俄”传闻压力，同样是一大原因。
+特朗普出访同天，第一个正式要求弹劾特朗普的国会成员，69岁的非裔民主党国会议员艾尔·格林向社会公布了其因此受到死亡威胁的电话录音。据中新社消息，几乎在特朗普的专机起飞的同时，一系列猛料被相继抛出。
+此前，白宫一直坚持以处理希拉里“邮件门”不当为由，FBI局长科米才被解雇。但这一借口仿佛被特朗普自己戳破，《纽约时报》曝出猛料称，特朗普自己对俄罗斯官员表示，解雇“疯子”科米使他摆脱涉俄调查压力。另外，《华盛顿邮报》则称，负责调查特朗普竞选团队与俄罗斯关系的执法部门已将一名现任白宫官员确认为重要嫌疑人。
+种种负面新闻曝光后，据路透社19日发布的最新民调，特朗普的支持率已跌至就职后的历史新低。仅有38%的受调查对象对他持肯定态度，高达56%的人对他不认同，剩下6%的人“感觉复杂”。
+特朗普中东行施压伊朗 伊增9个与美有关制裁对象
+5月20日，美国总统特朗普抵达沙特，开始其上任以来的首次出访，并与沙特国王萨勒曼签署了价值高达1100亿美元的军售协议。同一天，伊朗总统鲁哈尼在第12届总统选举中获胜。他表示：“伊朗人想要与其他国家和平共处，但不会接受任何威胁和侮辱。”
+分析人士称，特朗普这次中东行在无形中对伊朗施加了压力，因为该行程中有两站是伊朗的“地区宿敌”，且与沙特签下军购大单的目的之一是帮助沙特牵制伊朗。
+特朗普访问沙特 携内阁成员与沙特国民"尬舞"
+5月20日，特朗普访问沙特首都利雅得，不仅接受了沙特国王授予的阿卜杜勒阿齐兹勋章，还在穆拉巴宫前参与了一次仪式性的剑舞，携自己的内阁成员和沙特众国民“尬舞”了一小段。

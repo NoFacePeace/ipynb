@@ -1,0 +1,66 @@
+原始链接：http://news.163.com/17/0531/11/CLOSQ3RS0001875N.html
+
+机动车号牌管理改革:计算机系统发放 全国统一监管
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/5/Q/U/VUKRBECQU.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1705/31/yoKrA9627/SD/yoKrA9627-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+公安部：6月20日将推出牌照选号新举措
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+公安部：6月20日将推出牌照选号新举措
+（来源：original）
+
+记者从公安部获悉，近日，公安部部署启动机动车号牌管理改革，推广应用全国统一选号系统和号牌生产管理系统，优化管理服务，健全监管制度，保证号牌发放更加阳光透明、更加便民高效，不断提升广大车主切身感受和满意度，不断提升公安机关执法公信力。
+此次改革，公安部坚持问题导向，以群众新需求作为改进工作的发力点，将号牌管理改革纳入深化公安交管改革的重点任务。去年以来，组织开展了深入调研，通过网上征求意见、专题座谈等方式广泛听取基层、专家和群众意见，并在上海、南京、无锡、济南、深圳5个城市试点启用新能源汽车号牌，同步在7个城市试点应用了统一的选号系统，在此基础上研究形成了加强号牌管理意见。号牌管理改革主要从统一号牌发放、规范生产管理、服务便利群众、严密监管制度4个方面提出系列改革新举措，以统一系统保障公开公平公正，以健全制度促进严格廉洁规范，以试点先行保证改革稳妥推进。
+号牌发放启用统一系统
+针对一些地方存在的号牌发放不规范的问题，公安部要求推广应用统一的号牌选号系统，实现号牌发放“三个统一”，堵塞管理漏洞，保证号牌发放公开、公平、公正。统一号牌号码发放，号码资源全部通过计算机系统公开向社会发放，号牌发放方式全国统一。统一号池维护管理，设立统一的号码号池，号池号码全部由计算机随机投放、自动增补。统一号码资源监管，号牌号码资源由省级公安机关交通管理部门负责统一备案监管，健全监管制度机制。
+按照公安部统一安排，从今年6月20日开始，全国将分3批推广应用统一的选号系统，第一批推广单位有河北、吉林、江苏、山东、河南、广东、广西、重庆8个省（区、市）以及福建福州、江西吉安、湖北武汉、宜昌、四川绵阳、云南昆明、陕西渭南、新疆巴音郭楞8个市（州）。下一步，公安部将加快应用进度，抓紧完成全国推广应用工作。
+号牌全部签注唯一序列标识
+为规范号牌生产制作管理，2016年2月起，公安部交通管理局部署推广应用统一的号牌生产管理系统。此次号牌管理改革进一步明确，要求全面应用号牌生产管理系统，与公安交通管理综合应用平台联网对接，实现号牌生产全过程留痕，运用现代科技提升监管能力和治理水平。规范过程性监管，实时记录监控号牌制作流程，实现异常数据自动预警，号牌生产全过程监管。规范唯一性监管，全部通过信息系统下达号牌制作任务，实现机动车登记和号牌制作一一对应。规范溯源性监管，号牌签注唯一的生产序列标识，实现号牌唯一性和可溯源性，提升查处和打击假牌假证信息化、精准化能力。
+推出网上选号 “20~50选1”

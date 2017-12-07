@@ -1,0 +1,73 @@
+原始链接：http://news.163.com/17/0602/16/CLUILI6T000187VE.html
+
+女博士误机掌掴工作人员:我就迟到5分钟怎么了
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/Q/8/VCL0R9RQ8.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/02/AtIWv4061/SD/AtIWv4061-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+武汉一女博士因迟到误机掌掴机场工作人员，被处行拘10天
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+武汉一女博士因迟到误机掌掴机场工作人员，被处行拘10天
+（来源：~）
+
+楚天都市报6月2日消息，出国参加重要会议，却因迟到导致误机。昨日上午，武汉某名牌大学在读女博士情绪失控，大闹天河国际机场值机柜台，掌掴一名机场工作人员，被机场警方依法处以行政拘留10日。
+视频截图
+事发6月1日上午。天河机场一名工作人员介绍，当日9时35分，在机场国际楼，由武汉飞往巴黎AF139次航班已停止办理登机。
+9时49分，一家三口到达值机柜台，要求办理乘机手续，柜台值机员解释过了值机时间，并建议其改签或退票，但其中一名女旅客执意要乘坐这趟航班，声称自己就迟到了几分钟。
+在多次沟通无果后，这名女旅客突然冲进柜台，朝着值机员的脸狠狠的打了一巴掌，值机员当场眼前一黑，下意识的捂住一边的脸，女性旅客并未停手，朝着值机员的正脸部又打了一巴掌，周围工作人员和旅客闻讯赶来，女性旅客的丈夫前来拉开旅客，但旅客仍拿手指着值班员辱骂，后被警察带走。
+目击者卢女士称，当时她就在事发旁边柜台，旅客自己迟到，过了登机时间，之前已有工作人员解释，旅客反问“我就迟到五分钟怎么了？”
+实际上，她到柜台时不止晚了五分钟。有网友表示，可以理解旅客误机的着急心情，但当着孩子的面动手打人确实不妥。
+各航班截止登机时间
+楚天都市报记者在一段事发监控视频里看到，旅客一家在沟通无果后，来到值机柜台，没说几句话，女旅客就动起手，打了值机员两巴掌才被男旅客拉开。
+今天，记者从天河机场方面证实确有此事。据悉，当事值机员平日温柔乖巧，事发后精神受到刺激，泣不成声，已被送医检查。
+机场警方介绍，打人者张某36岁。6月1日上午9时49分，她一家三口欲乘坐AF139次航班由武汉飞往巴黎，在天河国际机场国际航站楼办理值机手续时，工作人员告知其所乘坐航班已于9时35分截止办理值机手续，建议其改签或退票，并主动帮其联系航空公司协调。
+张某自称要出国参加重要会议，执意要乘坐该航班，不听机场工作人员解释与建议，多次协调未果后，10时23分，张某突然情绪失控，冲进值机柜台的工作区域，用手连续掌掴工作人员二巴掌，引起了现场大量旅客的围观。
+朋友圈引发热议
+湖北省公安厅机场公安局航站楼派出所接到报警后，迅速赶赴现场将张某控制，经过充分调查取证，张某已构成殴打他人的违法行为。机场公安局根据《中华人民共和国治安管理处罚法》依法对其处以行政拘留10日的处罚。
+机场警方提醒广大旅客：机场作为城市文明窗口，良好公共秩序需要你我去维护。“文明乘机”更是每个旅客需严格遵守的标准，若旅客不顾法纪，任性而为，也必将受到法律的严厉制裁。

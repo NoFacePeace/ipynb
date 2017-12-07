@@ -1,0 +1,65 @@
+原始链接：http://news.163.com/17/0531/02/CLNUIJ590001875P.html
+
+四川一教练车被大卡碾压 急救人员均一氧化碳中毒
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/5/9/U/VCKQ4S59U.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1705/31/LUnYp9133/SD/LUnYp9133-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+教练车被大卡碾压 医护一氧化碳中毒
+（来源：网友）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+教练车被大卡碾压 医护一氧化碳中毒
+（来源：网友）
+
+5月30日下午，四川达州莲花湖至凤凰山的公路上一教练车从路口左拐的过程中与一大卡车相撞，教练车的大部分车身被大卡车碾压变形。教练车上当时仅有驾驶员周某一人。来源：封面新闻
+事发后，达州市中西医结合医院的急救医护人员、消防官兵、公安交警、派出所警察等救援力量迅速在现场集结。经过2个多小时的救援，被困在教练车驾驶室的周某最终被救出送医。经医院检查，周某腰椎和盆骨均有骨折，且有肺部挫伤，经抢救后目前已被送往重症监护室治疗，尚未脱离生命危险。
+由于长时间在高温下精神高度紧张，加之事故教练车的天然气罐有燃气泄露，出诊的急救医生张罗、急救护士何鑫，均出现了一氧化碳中毒。截至发稿时，张罗已无大碍，但何鑫仍在住院治疗，尚未完全脱离危险。
+据现场目击者介绍，事发前，涉事的大卡车从坡上往坡下行驶，车速不快且几乎是匀速行驶。大卡车行驶至事发路口时，涉事教练车突然从道路的右侧驶出，大卡车未来得及停下，其前轮最终压上了教练车的车身。
+目前，相关部门正在对事故的具体原因进行调查。
+5月30日下午5:30左右，达州莲花湖至凤凰山的公路上，车牌号为“川S2078学”的教练车从一路口左拐的过程中，被车牌号为“川S57619”的大卡车相撞，教练车的大部分车身被大卡车碾压变形。值得庆幸的是，教练车上当时仅有驾驶员周某一人。
+事发后，达州市中西医结合医院的急救医护人员、消防官兵、公安交警、派出所民警等救援力量迅速在现场集结。经过2个多小时的艰难救援，被困在教练车驾驶室的周某最终被救出送医。经医院检查，周某腰椎和盆骨均有骨折，且有肺部挫伤，经抢救后目前已被送往重症监护室治疗，尚未脱离生命危险。

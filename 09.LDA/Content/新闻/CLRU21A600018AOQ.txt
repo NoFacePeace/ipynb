@@ -1,0 +1,71 @@
+原始链接：http://news.163.com/17/0601/15/CLRU21A600018AOQ.html
+
+公安部:美方向中国遣返一名严重刑事犯罪嫌疑人
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/P/J/VUKU63APJ.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/01/kDaHg4667/SD/kDaHg4667-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+美方向我国遣返一名严重刑事犯罪嫌疑人，朱某被遣返回国
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+美方向我国遣返一名严重刑事犯罪嫌疑人，朱某被遣返回国
+（来源：original）
+
+公安部网站截图
+6月1日，中国籍严重刑事犯罪嫌疑人朱某在北京首都国际机场停机坪被警方验明身份后带走。当天，朱某被美国执法人员移交给中国警方。摄影：侯宇
+6月1日下午14时许，一架由美国起飞的美联航UA888航班降落在北京首都国际机场，两名美国移民海关执法局执法人员将中国籍犯罪嫌疑人朱某移交给中国警方，至此，在中国公安部和美国执法部门共同努力下，潜逃至美国的严重刑事犯罪嫌疑人朱某被成功遣返回国。
+这是今年4月习近平与特朗普举行中美元首会晤，宣布建立外交安全对话、全面经济对话、执法及网络安全对话、社会和人文对话四个高级别对话机制后，双方在执法及网络安全对话机制方面取得的最新成果。
+2016年4月4日11时许，安徽省阜阳市公安局颖泉分局刑警大队接报一起侵犯人身权利犯罪案件。经调查，安徽阜阳市人朱某具有重大作案嫌疑，但朱某已于2016年4月4日10时许从北京乘飞机逃至美国。接到相关情况报告后，公安部高度重视，立即组织精干力量开展境外追逃，向国际刑警组织申请发布了红色通报，并全力协调美方加大抓捕力度。
+2017年1月，朱某因在美超期滞留，被美移民执法部门拘留，美方及时将相关情况通报中方。公安部迅即将相关法律文书等材料递交美方，并协调美方尽快将朱某移交中方。近日，经美国法庭审理后，美方决定将朱某遣返回中国。
+今年4月，习近平访美，并与特朗普举行了中美元首会晤，双方宣布建立外交安全对话、全面经济对话、执法及网络安全对话、社会和人文对话四个高级别对话机制，将深化执法司法、网络安全、追逃追赃、非法移民、卫生等领域的合作，并加强执法合作，共同打击贩毒、拐卖儿童、洗钱、网络犯罪、有组织犯罪等各种形式的跨国犯罪。
+公安部有关负责人表示，该案成功告破是中美双方执法部门按照中美元首会晤所达成的共识，开展刑事执法和追逃合作的重大成果，是中美两国警方联手打击跨国刑事犯罪的又一典型案例。下一步，中国公安机关将与美方执法部门进一步落实中美两国元首会晤成果，健全完善执法及网络安全对话机制，加强与美国警方、海关移民等执法部门的合作，密切交流、增进互信、坦诚务实，严厉打击跨国犯罪，切实维护两国和两国人民的合法权益。
+人民网6月1日电 据公安部网站消息，中美执法部门落实两国“四个高级别对话机制”取得新成果。美方1日向我方遣返一名严重刑事犯罪嫌疑人。该案成功告破是中美双方执法部门按照中美元首会晤所达成的共识，开展刑事执法和追逃合作的重大成果，是中美两国警方联手打击跨国刑事犯罪的又一典型案例。
+公安部网站刊文称，习近平主席今年4月与特朗普总统举行中美元首会晤，宣布建立外交安全对话、全面经济对话、执法及网络安全对话、社会和人文对话四个高级别对话机制。此次遣返是双方在执法及网络安全对话机制方面取得的最新成果。
+6月1日下午14时许，一架由美国起飞的美联航UA888航班降落在北京首都国际机场，两名美国移民海关执法局执法人员将中国籍犯罪嫌疑人朱某移交给中国警方，至此，在中国公安部和美国执法部门共同努力下，潜逃至美国的严重刑事犯罪嫌疑人朱某被成功遣返回国。
+2016年4月4日11时许，安徽省阜阳市公安局颖泉分局刑警大队接报一起侵犯人身权利犯罪案件。经工作，安徽阜阳市人朱某具有重大作案嫌疑，但朱某已于2016年4月4日10时许从北京乘飞机逃至美国。接到相关情况报告后，公安部高度重视，立即组织精干力量开展境外追逃，向国际刑警组织申请发布了红色通报，并全力协调美方加大抓捕力度。2017年1月，朱某因在美超期滞留，被美移民执法部门拘留，美方及时将相关情况通报中方。公安部迅即将相关法律文书等材料递交美方，并协调美方尽快将朱某移交我方。近日，经美国法庭审理后，美方决定将朱某遣返回中国。
+今年4月，习近平主席访美，并与美国总统特朗普举行了中美元首会晤，双方宣布建立外交安全对话、全面经济对话、执法及网络安全对话、社会和人文对话四个高级别对话机制，将深化执法司法、网络安全、追逃追赃、非法移民、卫生等领域的合作，并加强执法合作，共同打击贩毒、拐卖儿童、洗钱、网络犯罪、有组织犯罪等各种形式的跨国犯罪。

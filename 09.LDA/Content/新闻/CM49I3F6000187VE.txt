@@ -1,0 +1,67 @@
+原始链接：http://news.163.com/17/0604/21/CM49I3F6000187VE.html
+
+"三脚踢断万年钟乳石"男子罚款后再遭追责:拘十日
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/Q/2/VCKVC6QQ2.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/02/CrWXb4577/SD/CrWXb4577-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+男子游览溶洞景区 三脚踢断上亿年钟乳石
+（来源：56网）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+男子游览溶洞景区 三脚踢断上亿年钟乳石
+（来源：56网）
+
+松桃苗族自治县公安局关于对潜龙洞景区游客故意损毁钟乳石违法行为处理情况的通报
+近日，贵州松桃潜龙洞景区游客故意损毁钟乳石行为引起了社会广泛关注，现将警方处理结果通报如下：
+2017年6月2日18时30分许，贵州武陵峰旅游开发有限公司潜龙洞景区负责人向公安机关报案，称景区保安在日常巡察中发现洞内一生长在步道内的钟乳石被损坏。
+接警后，我局高度重视，立即开展调查取证工作。经查，2017年5月29日下午13时许，一名印江籍男子张某某在潜龙洞景区游玩时，故意将洞内一生长在步道内的钟乳石踢断损坏。6月3日11时许，我局及时将违法行为人张某某抓获归案。
+因张某某行为违反了《中华人民共和国治安管理处罚法》第四十九条之规定，我局对其处十日拘留。
+二〇一七年六月三日
+潜龙洞钟乳石
+钟乳石成型缓慢，对远古地质考察有着重要的研究价值，据专家称，30厘米左右的石笋需要数万年才能生成。据公开报道，潜龙洞洞穴内钟乳石众多，所以景区在修筑步道时只能尽量避开钟乳石密集的区域，但还是会有一些小型的钟乳石分布在步道旁边，游人很容易触及，景区内也设置了提醒牌。
+潜龙洞景区位于贵州省松桃县境内，年均气温16.5℃，海拔高度1200米，是武陵山脉海拔最高，罕见的生长于白云岩石层中的亿年古溶洞群，并且最为神奇的是至今它仍在生长与繁育，洞内石笋密度世界罕见，属典型的南方喀斯特地质地貌奇观。
